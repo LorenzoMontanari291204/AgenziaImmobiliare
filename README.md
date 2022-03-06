@@ -6,5 +6,6 @@ Abbiamo letto e studiato il testo dell'esercizio prima di iniziare a svilupparlo
 Poi abbiamo iniziato a scrivere il codice partendo appunto dalle classi che sono state inserite a parte nella libreria. Una volta terminata la scrittura delle classi con i rispettivi attributi e costruttori, abbiamo iniziato a sviluppare la parte grafica delle varie form. 
 
 Una volta terminata la parte grafica, abbiamo creato i collegamenti tra le form sviluppando i metodi di aggiunta degli immobili nelle corrispondenti liste. 
+Abbiamo poi iniziato a fare il metodo Ricerca, che servirà per effettuare la ricerca di un determianato immobile.  
  
 Per lo sviluppo della soluzione abbiamo pensato di creare una form per ogni tipo di immobile cioè box,villa e appartamenti. IN queste form l'utente potrà inserire le varie caratteristiche di ogni immobile. Attraverso questi dati si crea un immobile.Attraverso una chiave funzionera il metodo ricerca il quale dobbiamo ancora sviluppare.Invece attraverso il codice alfanumerico ci sarà il metodo della restituzione dei dati e del tipo dell'immobile. 
