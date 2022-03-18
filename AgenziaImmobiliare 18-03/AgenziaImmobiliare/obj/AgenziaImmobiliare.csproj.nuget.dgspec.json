@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare\\AgenziaImmobiliare.csproj": {}
+    "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare\\AgenziaImmobiliare.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare\\AgenziaImmobiliare.csproj": {
+    "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare\\AgenziaImmobiliare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare\\AgenziaImmobiliare.csproj",
+        "projectUniqueName": "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare\\AgenziaImmobiliare.csproj",
         "projectName": "AgenziaImmobiliare",
-        "projectPath": "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare\\AgenziaImmobiliare.csproj",
+        "projectPath": "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare\\AgenziaImmobiliare.csproj",
         "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare\\obj\\",
+        "outputPath": "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\AgenziaImmobiliare_Library.csproj": {
-                "projectPath": "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\AgenziaImmobiliare_Library.csproj"
+              "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\AgenziaImmobiliare_Library.csproj": {
+                "projectPath": "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\AgenziaImmobiliare_Library.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\AgenziaImmobiliare_Library.csproj": {
+    "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\AgenziaImmobiliare_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\AgenziaImmobiliare_Library.csproj",
+        "projectUniqueName": "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\AgenziaImmobiliare_Library.csproj",
         "projectName": "AgenziaImmobiliare_Library",
-        "projectPath": "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\AgenziaImmobiliare_Library.csproj",
+        "projectPath": "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\AgenziaImmobiliare_Library.csproj",
         "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utente\\Desktop\\img\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\obj\\",
+        "outputPath": "C:\\Users\\Utente\\Documents\\GitHub\\AgenziaImmobiliare\\AgenziaImmobiliare 18-03\\AgenziaImmobiliare_Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
