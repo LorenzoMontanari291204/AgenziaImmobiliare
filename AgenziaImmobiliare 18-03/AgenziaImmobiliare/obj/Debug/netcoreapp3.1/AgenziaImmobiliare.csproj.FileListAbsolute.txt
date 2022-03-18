@@ -1,0 +1,64 @@
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.exe
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.deps.json
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.runtimeconfig.json
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.dll
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.pdb
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare_Library.dll
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare_Library.pdb
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.Form1.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.frmAppartamento.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.frmBox.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.frmVilla.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.AssemblyInfo.cs
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csproj.CopyComplete
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.dll
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.pdb
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.genruntimeconfig.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.exe
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.deps.json
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.runtimeconfig.json
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.dll
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.pdb
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare_Library.dll
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare_Library.pdb
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.Form1.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.frmAppartamento.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.frmBox.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.frmVilla.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.AssemblyInfo.cs
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csproj.CopyComplete
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.dll
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.pdb
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 02-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.genruntimeconfig.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.exe
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.deps.json
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.runtimeconfig.json
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.dll
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare.pdb
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare_Library.dll
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\bin\Debug\netcoreapp3.1\AgenziaImmobiliare_Library.pdb
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.Form1.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.frmAppartamento.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.frmBox.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.frmRicercaImmobile.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.frmVilla.resources
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.AssemblyInfo.cs
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.csproj.CopyComplete
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.dll
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.pdb
+C:\Users\Utente\Desktop\img\AgenziaImmobiliare 06-03\AgenziaImmobiliare\obj\Debug\netcoreapp3.1\AgenziaImmobiliare.genruntimeconfig.cache
