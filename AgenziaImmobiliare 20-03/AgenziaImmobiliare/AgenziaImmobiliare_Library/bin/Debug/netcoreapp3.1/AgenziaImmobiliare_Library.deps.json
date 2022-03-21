@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AgenziaImmobiliare_Library/1.0.0": {
+        "runtime": {
+          "AgenziaImmobiliare_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgenziaImmobiliare_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
