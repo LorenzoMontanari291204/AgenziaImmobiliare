@@ -3,6 +3,7 @@
 MARKO COBO E MONTANARI LORENZO
 
 LINK GANTT https://docs.google.com/spreadsheets/d/1t-NyhUi8tz0RXZ0OKEke50XieOGSm7swEn7HZHeCsIM/edit?usp=sharing
+LINK DIAGRAMMA DELLE CLASSI https://app.diagrams.net/#G1_lF1CkuUTjlQps9zJO87SdIVhJNY1LO9
 
 Abbiamo letto e studiato il testo dell'esercizio prima di iniziare a svilupparlo attraverso il codice, abbiamo poi realizzato il diagramma delle classi per organizzare il lavoro in modo più efficace. Nel diagramma delle classi abbiamo inserito le varie classi e i rispettivi metodi e attributi che saranno utili nello svolgimento dell'esercizio.
 Poi abbiamo iniziato a scrivere il codice partendo appunto dalle classi che sono state inserite a parte nella libreria. Una volta terminata la scrittura delle classi con i rispettivi attributi e costruttori, abbiamo iniziato a sviluppare la parte grafica delle varie form. 
